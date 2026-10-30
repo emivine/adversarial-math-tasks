@@ -1,8 +1,8 @@
-# Agent Benchmark Workflow
+# Adversarial Math Tasks
 
-用两个编程 agent（Claude Code 和 Codex）协作制作 agent 基准任务的流程、脚本和经验总结。
+用两个编程 agent（Claude Code 和 Codex）对抗生成高难度数学题的流程、脚本和经验总结。题目覆盖应用数学、运筹优化和统计，用作 agent 基准任务。
 
-A workflow for building benchmark tasks with two coding agents working together: one builds, the other attacks, and blind solvers measure how hard the result really is. Docs are in Chinese; scripts and comments are in English.
+A workflow for generating hard math benchmark tasks with two coding agents working against each other: one builds, the other attacks, and blind solvers measure how hard the result really is. Docs are in Chinese; scripts and comments are in English.
 
 ## 解决什么问题
 
