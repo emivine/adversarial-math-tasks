@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.DS_Store
+*.zip
+
+# task bundles, probe scratch and run records stay local: they hold solutions and verifiers
+Task/
+jobs/
+scratch/
+*.events.jsonl
+.env
