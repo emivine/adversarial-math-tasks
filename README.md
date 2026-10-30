@@ -79,7 +79,7 @@ export AGENT_CMD='codex exec --json -s workspace-write -'
 
 ## 状态
 
-项目已于 2026 年 10 月暂停，不再维护。
+新题制作目前暂缓，项目后续会继续开发。
 
 ## 许可证
 
