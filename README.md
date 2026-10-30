@@ -80,3 +80,7 @@ export AGENT_CMD='codex exec --json -s workspace-write -'
 ## 状态
 
 项目已于 2026 年 10 月暂停，不再维护。
+
+## 许可证
+
+[MIT](LICENSE)
